@@ -1,0 +1,21 @@
+{
+    "name": "リンクをSlackに送る🚀",
+    "description": "現在開いているページのリンクをSlackに送ります。事前に「拡張機能のオプション」でSlackのTokenとチャンネルIDを登録してください。",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "contextMenus",
+        "https://*/*",
+        "storage"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "options_ui": {
+        "page": "options.html",
+        "chrome_style": true,
+        "open_in_tab": true
+      }
+  }
+  
