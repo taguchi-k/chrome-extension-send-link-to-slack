@@ -11,5 +11,4 @@ document.getElementById("formButton").onclick = () => {
         "token": token.value,
         "channelID": channelID.value
     });
-  }
-  
+  };
