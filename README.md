@@ -4,7 +4,7 @@
 ## Description
 
 ブックマークしたいページで右クリック →　リンクをSlackに送る🚀  を選択すると、Slackの特定のチャンネルにリンクを送るChrome拡張です。
-![chrome](https://user-images.githubusercontent.com/17519073/86808814-2bd23a00-c0b6-11ea-935f-523f64d3f9ce.png)
+![chrome](https://user-images.githubusercontent.com/17519073/86862635-898d7300-c104-11ea-8755-d9902c3a4e18.png)
 
 SlackはOGP（Webページ側で設定された画像やタイトル・説明文）が表示されるので、とりあえずリンクを送っておくだけでも後から何のページだったかが簡単に把握できます。
 そのため気になる記事のリンク置き場として利用すると捗ります。
